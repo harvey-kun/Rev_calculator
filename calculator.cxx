@@ -20,6 +20,19 @@ string tt3 = "Total Selling price: ";
 string tt4 = "Total Projected Volume: ";
 string tt5 = "Total Projected Revenue: ";
 
+	//date//
+string a1 = "January";
+string a2 = "February";
+string a3 = "March";
+string a4 = "April";
+string a5 = "May";
+string a6 = "June";
+string a7 = "July";
+string a8 = "August";
+string a9 = "September";
+string a10 = "October";
+string a11 = "November";
+string a12 = "December";
 
 cout << "How many products" << '\n' << 
 "[a] One product " << '\n' << "[b] Two product " << '\n' << "[c] Three product" << '\n';
@@ -132,7 +145,7 @@ if (pn ==  cc){
      
      //projected rev//
      int prm1 = sp1s * pjv1;
-     int prm2 = sp2s * pjv2:
+     int prm2 = sp2s * pjv2;
      int prm3 = sp3s * pjv3;
                          
      cout << "Something"; 
